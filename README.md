@@ -1,2 +1,2 @@
 # Acessing-database
-Accessing the database using JDBC
+Accessing the database using API JDBC
